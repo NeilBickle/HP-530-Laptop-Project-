@@ -19,13 +19,13 @@ This is going to be a little bit of a different repository as it will have image
 4. To get a OS the is not made for a piece of hardware to work on this piece of hardware, if you dont know Windows 2000 was never actually offically compatible with the HP 530 so i set myself the challenge of making Windows 2000 work on the HP 530.
 
 # Specs
-Intel Celeron M CPU 1 Core 1.6 GHZ
-2 GB 667 MHZ DDR2 Physical RAM
-8 GB Virtual Ram
-128 GB HDD
-CD DVD Drive
-Intel GMA 950 256 MB VRAM
-Wifi 
-Ethernet Port
-Dial Up Port
+1. Intel Celeron M CPU 1 Core 1.6 GHZ
+2. 2 GB 667 MHZ DDR2 Physical RAM
+3. 8 GB Virtual Ram
+4. 128 GB HDD
+5. CD DVD Drive
+6. Intel GMA 950 256 MB VRAM
+7. Wifi 
+8. Ethernet Port
+9. Dial Up Port
 
