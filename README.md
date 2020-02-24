@@ -1,4 +1,4 @@
-# HP-530-Laptop-Project-Main-Branch
+# HP-530-Laptop-Project-Code-Branch
 This is going to be a little bit of a different repository as it will have images of my project and code of which I have made on the laptop to show my adaptability to the older software and how I can adapt to different software.
 
 # Start Of Project 
@@ -29,3 +29,5 @@ This is going to be a little bit of a different repository as it will have image
 8. Ethernet Port
 9. Dial Up Port
 
+# Programing Languages Currently Coded In
+1.HTML On Microsoft Frontpage
