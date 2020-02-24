@@ -1,4 +1,5 @@
 # HP-530-Laptop-Project-Images-Branch
+These Are the images of the HP 530 Laptop Project 
 ## Images Of Laptop Powered On, On The Desktop Folder.
 
 ### File List
