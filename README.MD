@@ -21,10 +21,10 @@ This is going to be a little bit of a different repository as it will have image
 # Specs
 1. Intel Celeron M CPU 1 Core 1.6 GHZ
 2. 2 GB 667 MHZ DDR2 Physical RAM
-3. 8 GB Virtual Ram
+3. 10 GB Virtual Ram
 4. 128 GB HDD
 5. CD DVD Drive
-6. Intel GMA 950 256 MB VRAM
+6. Intel GMA 950 128 MB VRAM
 7. Wifi 
 8. Ethernet Port
 9. Dial Up Port
