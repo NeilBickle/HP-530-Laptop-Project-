@@ -28,4 +28,5 @@ This is going to be a little bit of a different repository as it will have image
 7. Wifi 
 8. Ethernet Port
 9. Dial Up Port
-
+10. USB 2.0 two port PC Card
+11. 128gb Removable Storage
